@@ -1,3 +1,3 @@
-Project Name: Albums
-Description: 
-A sample project which is created through tutorial and practicing.
+Project Name: DOM Pig game
+Description:
+A tiny game which is created through tutorial cources for JavaScript
